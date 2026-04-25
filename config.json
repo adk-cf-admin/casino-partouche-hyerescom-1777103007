@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000001",
+            "lang-select-color": "#222829",
+            "bg-light": "#000001",
+            "welcome-bonus-bg": "#000001",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#404040",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#2E444B",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#ffffff",
+            "yellow-button": "#2E444B",
+            "button-text": "#000000",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000001",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#000001",
+            "faq-label": "#000001",
+            "bg-footer": "#000001",
+            "copyright": "#e7e7d5",
+            "starColor": "#2E444B",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6873"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6874",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Pasino Hyères Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6875",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Pasino Hyères"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Pasino Hyères",
+                    "title": "Pasino Hyères — Casino Partouche Var | Jeux & Poker",
+                    "description": "Jouez au Pasino de Hyères, casino Partouche au cœur du Var. 150+ machines à sous, roulette, blackjack, poker et tournois. Ouvert 7j\/7. Réservez !",
+                    "canonical": "casino-partouche-hyeres.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6876",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-partouche-hyeres.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6877"
+                },
+                "hero": {
+                    "title": "Le Casino Partouche Incontournable à Hyères",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6878",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6879",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "Vous cherchez un casino de confiance dans le Var ? Notre établissement agréé par l'ANJ réunit plus de 150 machines à sous, tables de jeux traditionnels et une Poker Room animée, le tout dans un monument classé en plein cœur d'Hyères.",
+                    "items": [
+                        "150+ machines à sous de 0,02 € à 20 € — jackpots progressifs inclus",
+                        "6 tables traditionnelles : roulette anglaise, blackjack, Ultimate Poker",
+                        "Poker Room avec 2 tables Texas Hold'em et tournois mensuels Partouche",
+                        "Monument classé Bâtiment de France, 1 Av. Ambroise Thomas, Hyères 83400",
+                        "Hôtel ★★★★, restaurant Le Vic for Victoria & salle de spectacle sur place",
+                        "Ouvert 7j\/7 de 9h à 4h — parking gratuit & Wi-Fi offerts à nos clients"
+                    ],
+                    "advantagesAfterText": "Rejoignez chaque soir des milliers de joueurs varois dans notre établissement agréé par l'Autorité Nationale des Jeux. Notre équipe bilingue français-anglais est à votre disposition tous les jours.",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Pasino Hyères App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6880",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Pasino Hyères App",
+                    "mobileGooglePlayImageTitle": "Pasino Hyères App",
+                    "mobileIosImageTitle": "Pasino Hyères App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du Pasino de Hyères",
+                        "description1": "Situé en plein cœur d'Hyères, notre Pasino Partouche est un monument classé Bâtiment de France. Nous accueillons les amateurs de jeux du Var et de toute la Côte d'Azur dans un cadre d'exception, 7j\/7.",
+                        "items": [
+                            "Intégration au réseau Partouche, leader français des casinos",
+                            "Extension à 150+ machines à sous et 55 postes électroniques",
+                            "Ouverture de la Poker Room avec tournois satellites Partouche",
+                            "Inauguration du restaurant Le Vic for Victoria, cuisine méditerranéenne"
+                        ],
+                        "description2": "Nous opérons sous agrément de l'Autorité Nationale des Jeux (ANJ), garant de la régularité de nos jeux. Toutes nos machines à sous sont certifiées pour garantir une redistribution équitable et des parties justes à nos joueurs.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6881",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Nous enrichissons continuellement notre offre pour les joueurs du Var et de Provence. Notre engagement pour le jeu responsable reste au cœur de notre démarche. Venez nous rendre visite à Hyères et découvrez l'expérience Partouche !"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Jeux & Machines à Sous à Hyères",
+                        "description": "<h2>Notre Offre Complète de Jeux au Pasino de Hyères<\/h2>\n\n<p>Bienvenue dans l'univers du jeu au Pasino de Hyères, l'établissement phare du groupe Partouche dans le département du Var. Notre salle de jeux, installée dans un élégant monument classé Bâtiment de France en plein centre-ville d'Hyères, réunit plus de 150 machines à sous certifiées, 55 postes de jeux électroniques et 6 tables de jeux traditionnels agréées par l'Autorité Nationale des Jeux. Que vous soyez un joueur occasionnel ou un passionné de gaming, notre établissement propose une expérience de divertissement complète et sécurisée sur la Côte d'Azur.<\/p>\n\n<h3>Les Machines à Sous : Plus de 150 Titres pour Tous les Budgets<\/h3>\n\n<p>Vous aimez les sensations fortes sur les machines à sous ? Notre salle réunit plus de 150 machines, avec des mises allant de 0,02 € à 20 € par partie, adaptées aussi bien aux joueurs prudents qu'aux amateurs de grosses mises dans le Var. Nos machines à sous incluent des vidéos rouleaux aux thèmes variés, des vidéos poker et des jackpots progressifs. Ces derniers, alimentés en temps réel, permettent de remporter des gains parfois très importants avec une seule mise. Notre Megapot constitue l'un des jackpots les plus attractifs de notre réseau Partouche en région Provence-Alpes-Côte d'Azur. Toutes nos machines sont régulièrement auditées et certifiées pour garantir un taux de redistribution équitable, conformément aux exigences de l'ANJ.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Vidéos rouleaux :<\/strong> Des centaines de thèmes disponibles — aventure, mythologie, nature, cinéma — avec des fonctionnalités bonus comme les free spins, les wilds empilés et les symboles scatter, pour un divertissement en salle sans égal à Hyères.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Vidéos poker :<\/strong> Jouez au Jacks or Better, Double Bonus ou Deuces Wild sur nos postes dédiés. Les règles sont affichées sur chaque terminal pour vous permettre d'optimiser votre stratégie de jeu dès votre première visite.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpots progressifs :<\/strong> Nos machines à jackpots progressifs sont reliées au réseau Partouche, ce qui signifie que la cagnotte augmente à chaque partie jouée dans nos casinos partenaires à travers toute la France. Le Megapot peut atteindre des sommes exceptionnelles.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mises adaptées :<\/strong> Avec des paris à partir de 0,02 €, nos machines sont accessibles à tous les budgets. Les joueurs expérimentés apprécieront les postes à mise maximale de 20 €, idéaux pour maximiser les gains potentiels lors de chaque session.<\/li>\n<\/ul>\n\n<h3>Les Postes Électroniques : 55 Terminaux Modernes<\/h3>\n\n<p>Envie de découvrir les jeux de table sans rejoindre une table physique ? Nos 55 postes de jeux électroniques offrent la meilleure solution pour s'initier aux classiques du casino à Hyères. On y retrouve 48 roulettes électroniques et 7 postes de Black Jack électronique, tous équipés d'interfaces intuitives et de règles affichées en français. Cette section est particulièrement appréciée des nouveaux joueurs varois qui souhaitent se familiariser avec les jeux traditionnels avant de rejoindre les tables humaines. Les terminaux électroniques sont disponibles dès l'ouverture à 9h, bien avant l'ouverture des tables traditionnelles, ce qui vous permet de profiter d'une session de jeu à votre rythme tout au long de la journée.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette électronique (48 postes) :<\/strong> Nos terminaux de roulette anglaise électronique permettent de miser à partir de 1 € par numéro. Chaque poste dispose d'un historique des 20 derniers tirages et d'un écran statistique pour vous aider à affiner vos choix de mise.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Black Jack électronique (7 postes) :<\/strong> Nos postes de Black Jack électronique respectent les règles officielles avec possibilité de doubler, splitter et assurer. La mise minimale démarre à 1 €, idéale pour les débutants souhaitant s'exercer sans pression à Hyères.<\/li>\n<\/ul>\n\n<h3>Les Tables de Jeux Traditionnels : 6 Tables Agréées ANJ<\/h3>\n\n<p>Pour les joueurs en quête d'une expérience authentique avec un croupier humain, nos 6 tables de jeux traditionnels sont ouvertes chaque soir à partir de 20h30. Supervisées par des croupiers professionnels formés aux standards du groupe Partouche, elles accueillent jusqu'à plusieurs dizaines de joueurs simultanément dans une atmosphère à la fois sophistiquée et conviviale, typique du sud de la France. Chaque table est agréée par l'Autorité Nationale des Jeux et fait l'objet de contrôles réguliers pour garantir la transparence et la régularité des parties.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #344c54;\">\n      <th style=\"border: 1px solid #2b2b2b; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Jeu<\/th>\n      <th style=\"border: 1px solid #2b2b2b; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Mise min<\/th>\n      <th style=\"border: 1px solid #2b2b2b; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Infos<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Roulette Anglaise<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">2 €<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">1 table, croupier en direct<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151515;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Black Jack<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">5 €<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">2 tables, double & split autorisés<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Ultimate Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">5 €<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">1 table, poker contre la banque<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151515;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Texas Hold'em<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Cave 100 €<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">2 tables, Poker Room dédiée<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>La Poker Room : Tournois et Cash Games à Hyères<\/h3>\n\n<p>Notre Poker Room est l'une des plus animées du Var, avec 2 tables de Texas Hold'em accueillant des parties de cash game et des tournois réguliers. La cave minimum est fixée à 100 € pour les tables standard et 250 € pour les tables VIP, offrant un jeu dynamique et stratégique. Nous organisons chaque mois des tournois événementiels ainsi que des satellites du prestigieux Partouche Poker Tour, donnant la chance à nos joueurs hyérois de se qualifier pour des compétitions nationales. Les mardis et jeudis à partir de 20h30, des tournois satellites sont proposés avec un droit d'entrée de 125 €, ouverts aux joueurs inscrits au programme Partouche Mon Casino.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cash Game Texas Hold'em :<\/strong> Parties disponibles chaque soir dès 20h30 avec des niveaux de blind adaptés à tous les profils, du joueur amateur au régulier confirmé de la région Var.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tournois Satellites PPT :<\/strong> Chaque mardi et jeudi à 20h30, participez à nos satellites Partouche Poker Tour pour 125 € d'inscription. Les qualifiés représentent Hyères sur les tables nationales du réseau Partouche.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Initiations au poker :<\/strong> Vous débutez ? Nos croupiers professionnels proposent des séances d'initiation au Texas Hold'em sur demande, parfaites pour les visiteurs découvrant la Côte d'Azur et souhaitant apprendre les bases du jeu dans une ambiance détendue.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tournois événementiels :<\/strong> Plusieurs fois par an, nous organisons des tournois spéciaux avec des prize pools renforcés, des animations et des lots exclusifs réservés aux membres de notre programme de fidélité Partouche Mon Casino.<\/li>\n<\/ul>\n\n<h3>Nos Horaires et Accès au Casino d'Hyères<\/h3>\n\n<p>Notre Pasino est ouvert 7 jours sur 7, de 9h à 4h du matin, pour s'adapter aux emplois du temps de tous nos visiteurs, qu'ils viennent de Hyères, de Toulon à 19 km, de Bandol à 36 km ou même de Saint-Tropez à 60 km. Les machines à sous et les postes électroniques sont accessibles dès l'ouverture, tandis que les tables de jeux traditionnels accueillent les joueurs à partir de 20h30. La présentation d'une pièce d'identité valide est obligatoire à l'entrée, conformément à la réglementation française sur les établissements de jeux. Notre parking privatif est offert gratuitement à toute notre clientèle, et nous disposons d'un accès Wi-Fi haut débit dans l'ensemble de l'établissement.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Restaurant, Hôtel & Services à Hyères",
+                        "description": "<h2>Au-delà du Jeu : L'Expérience Complète du Pasino de Hyères<\/h2>\n\n<p>Le Pasino de Hyères, fleuron du groupe Partouche sur la Côte d'Azur, n'est pas uniquement un casino : c'est un véritable pôle de divertissement installé dans un monument classé Bâtiment de France en plein cœur de la ville d'Hyères. Entre notre restaurant gastronomique, notre hôtel quatre étoiles, notre salle de spectacle et notre programme de fidélité exclusif, nous vous proposons une expérience de loisirs complète pensée pour les résidents du Var comme pour les touristes de passage sur la Côte d'Azur. Chaque visite au Pasino devient ainsi une soirée mémorable, bien au-delà des tables de jeux.<\/p>\n\n<h3>Le Restaurant Le Vic for Victoria : Cuisine Méditerranéenne au Cœur d'Hyères<\/h3>\n\n<p>Après une session de jeu stimulante, rien de tel qu'une pause gastronomique dans notre restaurant Le Vic for Victoria, ouvert du mercredi au dimanche de 12h à 14h30 et de 19h30 à 22h30 (jusqu'à 23h le samedi). Notre cuisine se veut passionnément méditerranéenne, sublimant les produits frais du marché de Provence et les saveurs de la mer du littoral varois. Le chef orchestre une carte créative qui évolue avec les saisons, privilégiant les producteurs locaux du Var et les poissons de la Méditerranée. Notre salle à manger élégante et notre terrasse offrent une atmosphère raffinée, idéale pour un dîner en tête-à-tête ou un repas d'affaires avant de rejoindre les tables du casino.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cuisine du marché :<\/strong> Notre chef compose chaque semaine des menus inspirés des arrivages frais de Provence — poissons de la Méditerranée, légumes du terroir varois, herbes aromatiques de la garrigue — pour vous offrir une expérience gustative authentiquement méridionale.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Service déjeuner & dîner :<\/strong> Ouvert midi (12h-14h30) et soir (19h30-22h30) du mercredi au dimanche. Le samedi, le service du soir est prolongé jusqu'à 23h pour accueillir les clients soirée casino dans les meilleures conditions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Carte des vins :<\/strong> Notre cave à vins met à l'honneur les vignobles de Provence, notamment les crus varois en Provence et les rosés de Bandol, pour accompagner chaque plat avec des accords mets-vins de qualité.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Formules groupes :<\/strong> Nous proposons des formules sur mesure pour les groupes et séminaires, combinant dîner gastronomique et soirée au casino. Contactez notre équipe au +33 4 94 12 80 80 pour organiser votre événement à Hyères.<\/li>\n<\/ul>\n\n<h3>L'Hôtel des Palmiers ★★★★ : Votre Hébergement de Prestige à Hyères<\/h3>\n\n<p>Séjourner au cœur d'Hyères les Palmiers n'a jamais été aussi simple : notre Hôtel des Palmiers quatre étoiles est directement intégré au Pasino, vous permettant de passer en quelques secondes de votre chambre à la salle de jeux. Cet hôtel de charme contemporain propose des chambres et suites entièrement rénovées, alliant le confort moderne aux codes architecturaux du bâtiment classé. Idéalement situé en centre-ville, à deux pas des palmiers légendaires qui ont donné à Hyères son surnom de « Hyères les Palmiers », l'Hôtel des Palmiers est le point de départ idéal pour explorer la Côte d'Azur varoise, les îles d'Or (Porquerolles, Port-Cros) et les plages de l'Almanarre. Parking gratuit et Wi-Fi haut débit sont inclus pour tous nos résidents.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Chambres & suites :<\/strong> Nos hébergements quatre étoiles sont décorés avec soin dans un esprit contemporain lumineux, avec vue sur la ville d'Hyères ou les jardins. Chaque chambre dispose du Wi-Fi gratuit, de la climatisation, de la télévision grand écran et d'un minibar.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Accès direct casino :<\/strong> Nos clients résidents bénéficient d'un accès privilégié et immédiat à l'ensemble des espaces du Pasino — salle de jeux, restaurant, bar et salle de spectacle — sans avoir à quitter l'établissement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Position stratégique :<\/strong> À 19 km de Toulon, à 60 km de Saint-Tropez et à proximité des îles d'Or accessibles en ferry depuis Hyères, notre hôtel est la base parfaite pour découvrir les plus beaux sites naturels et culturels de la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Parking & services :<\/strong> Notre parking privé est mis gratuitement à la disposition de tous nos clients hôtel et casino. Des services de conciergerie, de location de véhicules et d'organisation d'excursions vers les îles varoises sont disponibles à la réception.<\/li>\n<\/ul>\n\n<h3>La Salle de Spectacle : Événements et Artistes au Pasino d'Hyères<\/h3>\n\n<p>Notre salle de spectacle accueille tout au long de l'année une programmation riche et variée, où de grands noms de la scène musicale française et internationale se produisent dans un cadre intimiste. Concerts, one-man-shows, soirées à thème ou événements privés — notre équipe événementielle met tout en œuvre pour proposer des spectacles mémorables aux habitants du Var et aux touristes de passage sur la Côte d'Azur. La capacité modulable de notre salle permet d'accueillir aussi bien des soirées intimes que des événements d'envergure régionale. Consultez régulièrement notre agenda sur casino-hyeres.partouche.com pour découvrir les prochains rendez-vous et réserver vos places en avance.<\/p>\n\n<h3>Partouche Mon Casino : Notre Programme de Fidélité<\/h3>\n\n<p>En tant que membre du groupe Partouche, notre Pasino de Hyères vous donne accès au programme de fidélité Partouche Mon Casino, l'un des plus avantageux du secteur des casinos terrestres en France. Chaque mise jouée sur nos machines à sous et tables vous rapporte des points cumulables, échangeables contre des avantages exclusifs : réductions au restaurant Le Vic for Victoria, offres préférentielles sur les nuitées à l'Hôtel des Palmiers, invitations aux tournois de poker et accès prioritaire aux événements de la salle de spectacle. Le programme est valable dans l'ensemble des établissements Partouche à travers la France, ce qui en fait un atout précieux pour les joueurs voyageurs.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #344c54;\">\n      <th style=\"border: 1px solid #2b2b2b; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Service<\/th>\n      <th style=\"border: 1px solid #2b2b2b; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Horaires<\/th>\n      <th style=\"border: 1px solid #2b2b2b; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Infos<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Casino<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">9h – 4h, 7j\/7<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Tables dès 20h30<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151515;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Restaurant<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Mer–Dim 12h–22h30<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Sam jusqu'à 23h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Hôtel ★★★★<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Réception 24h\/24<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Parking & Wi-Fi gratuits<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151515;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Poker Room<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Dès 20h30, 7j\/7<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Tournois Mar & Jeu<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\"><strong>Spectacles<\/strong><\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Selon programme<\/td>\n      <td style=\"border: 1px solid #2b2b2b; padding: 8px; color: #ffffff;\">Réservation conseillée<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Jeu Responsable : Notre Engagement au Pasino de Hyères<\/h3>\n\n<p>Le groupe Partouche s'engage fermement en faveur du jeu responsable dans l'ensemble de ses établissements, et notre Pasino de Hyères ne fait pas exception. Conformément aux obligations légales définies par l'Autorité Nationale des Jeux (ANJ), nous mettons à disposition de tous nos joueurs des outils d'auto-exclusion, des limites de temps de jeu et de dépôts, ainsi qu'une documentation complète sur les risques liés au jeu excessif. Nos équipes sont formées pour détecter les comportements de jeu problématiques et orienter si nécessaire vers des structures d'aide spécialisées. L'accès à notre établissement est interdit aux mineurs de moins de 18 ans, et une pièce d'identité est exigée à l'entrée. Pour toute question relative au jeu responsable, nos équipes bilingues français-anglais sont disponibles sur place 7j\/7.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Quels jeux sont disponibles au Pasino de Hyères ?",
+                            "answer": "Nous proposons 150+ machines à sous (0,02 €–20 €), 55 postes électroniques, et 6 tables de jeux : roulette anglaise, blackjack, Ultimate Poker et 2 tables de Texas Hold'em. La Poker Room accueille tournois et cash games chaque soir dès 20h30."
+                        },
+                        {
+                            "title": "À quelle heure ouvre le casino Partouche d'Hyères ?",
+                            "answer": "Notre Pasino est ouvert 7 jours sur 7 de 9h à 4h du matin. Les machines à sous et postes électroniques sont accessibles dès 9h. Les tables de jeux traditionnels et la Poker Room ouvrent à partir de 20h30. Une pièce d'identité valide est obligatoire à l'entrée."
+                        },
+                        {
+                            "title": "Comment participer aux tournois de poker à Hyères ?",
+                            "answer": "Inscrivez-vous à nos tournois satellites Partouche Poker Tour chaque mardi et jeudi à 20h30 pour 125 € d'entrée. Des tournois événementiels sont organisés chaque mois. Contactez-nous au +33 4 94 12 80 80 ou consultez l'agenda sur casino-hyeres.partouche.com."
+                        },
+                        {
+                            "title": "Y a-t-il un restaurant au Pasino de Hyères ?",
+                            "answer": "Oui, notre restaurant Le Vic for Victoria propose une cuisine méditerranéenne créative, ouvert du mercredi au dimanche de 12h à 14h30 et de 19h30 à 22h30 (23h le samedi). Idéalement situé dans notre établissement classé Bâtiment de France en plein cœur d'Hyères."
+                        },
+                        {
+                            "title": "Le Pasino de Hyères est-il agréé et sécurisé ?",
+                            "answer": "Oui, nous opérons sous agrément de l'Autorité Nationale des Jeux (ANJ), l'organisme de régulation français des casinos terrestres. Toutes nos machines et tables sont régulièrement auditées. Notre établissement est classé monument Bâtiment de France, situé 1 Av. Ambroise Thomas, Hyères 83400."
+                        },
+                        {
+                            "title": "Y a-t-il un hôtel directement au casino d'Hyères ?",
+                            "answer": "Oui, notre Hôtel des Palmiers ★★★★ est intégré au Pasino, avec accès direct à la salle de jeux, au restaurant et aux spectacles. Parking et Wi-Fi sont gratuits. Réservez au +33 4 94 12 80 80 ou par e-mail à hotel-hyeres@partouche.com pour vos séjours dans le Var."
+                        },
+                        {
+                            "title": "Comment accéder au Pasino depuis Toulon ou Saint-Tropez ?",
+                            "answer": "Notre Pasino est situé 1 Avenue Ambroise Thomas à Hyères, à 19 km de Toulon, 36 km de Bandol et 60 km de Saint-Tropez. Nous disposons d'un parking gratuit sur place. L'établissement est accessible en bus (arrêt à moins de 500 m) ou en voiture via l'autoroute A57."
+                        },
+                        {
+                            "title": "Qu'est-ce que le programme Partouche Mon Casino ?",
+                            "answer": "Partouche Mon Casino est notre programme de fidélité gratuit. Chaque mise vous rapporte des points échangeables contre des avantages : réductions restaurant, offres hôtel, invitations aux tournois et accès événements. Valable dans tous les casinos du réseau Partouche en France."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
